@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git can push to yuancheng lib.
 Git can push to yuancheng lib, too.
+Creating a new branch is quick.
