@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git can push to yuancheng lib.
 Git can push to yuancheng lib, too.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
